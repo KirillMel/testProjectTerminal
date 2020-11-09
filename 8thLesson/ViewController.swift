@@ -10,6 +10,10 @@ import UIKit
 class ViewController: UIViewController {
 
     var varibale = 100
+    var varibale2 = 100
+    var varibale3 = 100
+    
+    
     
     
     override func viewDidLoad() {
