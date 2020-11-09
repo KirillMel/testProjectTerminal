@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var varibale = 100
     
     
     override func viewDidLoad() {
